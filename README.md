@@ -1,16 +1,35 @@
-## Hi there 👋
+## Hi 👋 I'm Mayank  
 
-<!--
-**mayanksingh-0852/mayanksingh-0852** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 Frontend Developer  
+💻 HTML | CSS | JavaScript | React  
+📍 India  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🔥 About Me
+- Frontend Developer with 1 years of experience  
+- Passionate about building clean & responsive UI  
+- Currently working at Khan Global Studies  
+- Learning React & JavaScript  
+---
+### 🛠️ Tech Stack
+- HTML5  
+- CSS3 / SCSS  
+- JavaScript (ES6+)  
+- Git & GitHub    
+---
+### 📌 Featured Projects
+- 🧮 Calculator App  
+- ✅ Todo List App  
+- 🔍 Search Bar Project  
+- 🌐 Portfolio Website  
+---
+### 🌐 Live Projects
+🔗 https://youtube-player-by-me.netlify.app/
+---
+### 📫 Connect With Me
+- LinkedIn: https://www.linkedin.com/in/kumar-mayank-5a015025a/
+- GitHub: https://github.com/mayanksingh-0852
+- Email: mayanksinghdivra007@gmail.com 
+---
+⭐️ *Thanks for visiting my profile!*
