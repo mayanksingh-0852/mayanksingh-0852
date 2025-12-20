@@ -26,6 +26,7 @@
 ---
 ### 🌐 Live Projects
 🔗 https://youtube-player-by-me.netlify.app/
+🔗 https://clone-flix-relaxed-crumble.netlify.app/
 ---
 ### 📫 Connect With Me
 - LinkedIn: https://www.linkedin.com/in/kumar-mayank-5a015025a/
