@@ -7,7 +7,7 @@
 ---
 
 ### 🔥 About Me
-- Frontend Developer with 1 years of experience  
+- Frontend Developer / Web-Developer (Intern) 
 - Passionate about building clean & responsive UI  
 - Currently working at Khan Global Studies  
 - Learning React & JavaScript  
