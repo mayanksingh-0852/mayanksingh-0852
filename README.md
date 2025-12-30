@@ -20,8 +20,7 @@
 ---
 ### 📌 Featured Projects
 - 🧮 Calculator App  
-- ✅ Todo List App  
-- 🔍 Search Bar Project  
+- ✅ Todo List App    
 - 🌐 Portfolio Website  
 ---
 ### 🌐 Live Projects
