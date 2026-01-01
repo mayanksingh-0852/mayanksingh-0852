@@ -9,7 +9,7 @@
 ### 🔥 About Me
 - Frontend Developer / Web-Developer (Intern) 
 - Passionate about building clean & responsive UI  
-- Currently working at Khan Global Studies  
+- Ex- Emp of Khan Global Studies  
 - Learning React & JavaScript  
 ---
 ### 🛠️ Tech Stack
