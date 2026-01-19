@@ -15,7 +15,8 @@
 ### 🛠️ Tech Stack
 - HTML5  
 - CSS3 / SCSS  
-- JavaScript (ES6+)  
+- JavaScript (ES6+)
+- React
 - Git & GitHub    
 ---
 ### 📌 Featured Projects
