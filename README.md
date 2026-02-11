@@ -1,14 +1,13 @@
-<h1 align="center">Hi 👋, I'm Mayank Rajput</h1>
+<h1 align="center">Hi 👋, I'm Mayank</h1>
 <h3 align="center">Frontend Developer | JavaScript & React Learner 🚀</h3>
 
 ---
 
 ## 🚀 About Me
-- 🌱 Currently learning **Advanced JavaScript & React**
+- 🌱 Currently learning **JavaScript & React**
 - 💻 Building real-world projects daily
 - 📚 Preparing for **Frontend Developer Interviews**
 - 🎯 Goal: Become Job-Ready Full Stack Developer
-- ⚡ Fun fact: I code after 11PM consistently 💪
 
 ---
 
@@ -58,8 +57,8 @@
 ---
 
 ## 📫 Connect With Me
-- 💼 LinkedIn: (Add your link)
-- 📧 Email: (Add your email)
+- 💼 LinkedIn: https://www.linkedin.com/in/kumar-mayank-5a015025a/
+- 📧 Email: (mayanksinghdivra007@gmail.com)
 
 ---
 
