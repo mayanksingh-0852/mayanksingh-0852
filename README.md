@@ -38,17 +38,6 @@
 
 ---
 
-## 📈 Contribution Graph
-
-[![Mayank's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night)](https://github.com/YOUR_USERNAME)
-
----
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=tokyonight)
-
----
-
 ## 📌 Current Focus
 - 🔥 Daily coding practice
 - 📦 Building Projects
@@ -58,7 +47,7 @@
 
 ## 📫 Connect With Me
 - 💼 LinkedIn: https://www.linkedin.com/in/kumar-mayank-5a015025a/
-- 📧 Email: (mayanksinghdivra007@gmail.com)
+- 📧 Email: mayanksinghdivra007@gmail.com
 
 ---
 
