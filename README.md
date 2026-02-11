@@ -1,10 +1,5 @@
-<h1 align="center">
-  Hi 👋, I'm Mayank Singh
-</h1>
-
-<h3 align="center">
-  🚀 Frontend Developer | JavaScript & React Learner
-</h3>
+<h1 align="center">Hi 👋, I'm Mayank Singh</h1>
+<h3 align="center">Frontend Developer | JavaScript & React Learner 🚀</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&size=25&center=true&vCenter=true&width=600&lines=Passionate+Frontend+Developer;JavaScript+%7C+React+Enthusiast;Building+Projects+Daily;Future+Full+Stack+Developer" />
@@ -14,11 +9,11 @@
 
 ## 🧠 About Me
 
-- 🌱 Currently mastering **Advanced JavaScript & React**
+- 🌱 Currently learning **Advanced JavaScript & React**
 - 💻 Building real-world frontend projects
-- 🎯 Preparing for **Frontend Developer Jobs**
-- 🔥 Coding consistently after 11PM
-- 🚀 Goal: Become a job-ready Full Stack Developer
+- 📚 Practicing interview questions daily
+- 🔥 Consistent late-night coder (after 11 PM)
+- 🎯 Goal: Become a Job-Ready Full Stack Developer
 
 ---
 
@@ -33,6 +28,20 @@
 <p>
   <img src="https://skillicons.dev/icons?i=git,github,vscode" />
 </p>
+
+---
+
+## 💼 Professional Summary
+
+Frontend Developer skilled in building responsive and user-friendly web applications using HTML, CSS, JavaScript, and React. Strong understanding of DOM manipulation, API handling, and modern UI practices. Passionate about solving real-world problems and continuously improving development skills.
+
+---
+
+## 🚀 Key Projects
+
+- 🔹 Portfolio Website – Responsive personal portfolio  
+- 🔹 JavaScript Mini Projects – DOM & Logic Building  
+- 🔹 API Based Applications – Real-time data fetching  
 
 ---
 
@@ -53,6 +62,14 @@
 
 ---
 
+## 🏆 GitHub Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=mayanksingh-0852&theme=tokyonight&no-frame=true&row=1"/>
+</p>
+
+---
+
 ## 🐍 Contribution Snake
 
 <p align="center">
@@ -61,20 +78,11 @@
 
 ---
 
-## 👀 Visitor Count
+## 📬 Open To
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=mayanksingh-0852&label=Profile%20views&color=0e75b6&style=flat" />
-</p>
-
----
-
-## 📌 Current Focus
-
-- 🔥 Daily coding practice
-- 📦 Building strong portfolio projects
-- 🎯 Applying for Frontend Jobs & Internships
-- 📚 Practicing Interview Questions
+✅ Frontend Developer Roles  
+✅ React Developer Internships  
+✅ Entry-Level Web Developer Positions  
 
 ---
 
