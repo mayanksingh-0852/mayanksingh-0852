@@ -53,10 +53,10 @@
 
 ---
 
-## 🏆 GitHub Trophies
+## 🐍 Contribution Snake
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=mayanksingh-0852&theme=tokyonight&no-frame=true&row=1"/>
+  <img src="https://raw.githubusercontent.com/mayanksingh-0852/mayanksingh-0852/output/github-contribution-grid-snake-dark.svg" />
 </p>
 
 ---
