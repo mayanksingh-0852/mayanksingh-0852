@@ -6,7 +6,6 @@
 </p>
 
 ---
-
 ## 🧠 About Me
 
 - 🌱 Currently learning **Advanced JavaScript & React**
