@@ -47,8 +47,9 @@ Frontend Developer skilled in building responsive and user-friendly web applicat
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mayanksingh-0852&show_icons=true&theme=tokyonight&hide_border=true" height="170" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mayanksingh-0852&theme=tokyonight&hide_border=true" height="170" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api?username=mayanksingh-0852&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="170" />
+  
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mayanksingh-0852&theme=tokyonight&hide_border=true" height="170" />
 </p>
 
 ---
