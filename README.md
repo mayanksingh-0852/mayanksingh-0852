@@ -32,7 +32,7 @@
 
 ## 💼 Professional Summary
 
-Frontend Developer skilled in building responsive and user-friendly web applications using HTML, CSS, JavaScript, and React. Strong understanding of DOM manipulation, API handling, and modern UI practices. Passionate about solving real-world problems and continuously improving development skills.
+Frontend Developer skilled in building responsive and user-friendly web applications using HTML, CSS, JavaScript, and React. Strong understanding of DOM manipulation, API handling, and modern UI practices. Passionate about solving real-world problems and continuously improving development skills
 
 ---
 
