@@ -20,7 +20,7 @@
 
 ### 👨‍💻 Frontend
 <p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,bootstrap,api" />
 </p>
 
 ### ⚙️ Tools
