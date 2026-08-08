@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Mayank Singh</h1>
+<h1 align="center">Hi 👋, I'm Mayank </h1>
 
 <h3 align="center">
   🚀 Frontend Developer | JavaScript & React Developer
