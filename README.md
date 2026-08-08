@@ -64,9 +64,7 @@ Frontend Developer skilled in building responsive and user-friendly web applicat
 
 ## 🏆 GitHub Trophies
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=mayanksingh-0852&theme=tokyonight&no-frame=true&row=1"/>
-</p>
+<p align="center"> <img src="https://github-profile-trophy.vercel.app/?username=mayanksingh-0852&theme=tokyonight&no-frame=true&margin-w=10&row=1&column=6" alt="GitHub Trophies" /> </p>
 
 ---
 
