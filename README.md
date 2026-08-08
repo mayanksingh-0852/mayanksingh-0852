@@ -83,6 +83,13 @@ I'm a passionate **Frontend Developer** focused on building responsive, interact
 
 ---
 
+## 🐍 Contribution Snake
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/mayanksingh-0852/mayanksingh-0852/output/github-contribution-grid-snake-dark.svg" />
+</p>
+
+
 ## 📚 Currently Learning
 
 ```text
