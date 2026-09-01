@@ -160,5 +160,5 @@ I'm currently open to:
 </p>
 
 <p align="center">
-  <i>Thanks for visiting my profile! ⭐</i>
+  <i>Thanks for visit my profile! ⭐</i>
 </p>
