@@ -34,7 +34,7 @@ I'm a passionate **Frontend Developer** focused on building responsive, interact
 ### 🎨 Frontend
 
 <p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,bootstrap,typescript" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,typescript,react,tailwind,bootstrap" />
 </p>
 
 ### ⚙️ Tools & Technologies
