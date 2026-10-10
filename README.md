@@ -11,7 +11,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=650&lines=Frontend+Developer;JavaScript+%7C+React+Enthusiast;Building+Modern+Web+Experiences;Learning+Full+Stack+Development" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=650&lines=Frontend+Developer;JavaScript+%7C+React+Enthusiast;Building+Modern+Web+Experiences;Learning+Full+Stack+Development;Shopify+Developer" alt="Typing SVG" />
 </p>
 
 ---
