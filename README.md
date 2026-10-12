@@ -112,12 +112,12 @@ Full Stack Development
 
 <p align="center">
   <img height="170" src="https://github-readme-stats.vercel.app/api?username=mayanksingh-0852&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
-  <img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=mayanksingh-0852&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  <!-- <img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=mayanksingh-0852&theme=tokyonight&hide_border=true" alt="GitHub Streak" /> -->
 </p>
 
-<p align="center">
+<!-- <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=mayanksingh-0852&theme=tokyo-night&hide_border=true" alt="Activity Graph" />
-</p>
+</p> -->
 
 ---
 
